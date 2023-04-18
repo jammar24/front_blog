@@ -12,6 +12,7 @@ function App() {
         <h2>Hola jam desde mi rama Cristian</h2>
         <h5>HOLA JAMAAAARRRR</h5>
         <h4>compa</h4>
+        <h4>hola compa</h4>
     </div>
   )
 }
