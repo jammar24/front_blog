@@ -17,7 +17,7 @@ function App() {
 
 
         <article>
-          <h5>estoy actualizando el sistema <span> <img src="image.png" alt="" /></span></h5>
+          <h5>estoy actualizando el sistema DESDE CRISTIAN <span> <img src="image.png" alt="" /></span></h5>
         </article>
     </div>
   )
