@@ -1,4 +1,4 @@
-'
+
 import './App.css'
 
 function App() {
@@ -12,7 +12,6 @@ function App() {
         
         <h4>compa</h4>
         <h4>hola compa</h4>
-    <div className="Ap">
         hola mundo
         <h2>empecemos </h2>
 
