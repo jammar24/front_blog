@@ -10,6 +10,7 @@ function App() {
     <div className="App">
         hola mundo
         <h2>Hola jam desde mi rama Cristian</h2>
+        <h4>hola compa</h4>
     </div>
   )
 }
