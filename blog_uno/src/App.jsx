@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
 import Home from './pages/home'
+import Footer from './pages/Footer'
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <h5>estoy actualizando el sistema DESDE CRISTIAN <span> <img src="image.png" alt="" /></span></h5>
         </article>
         <Home/> 
+        <Footer />
     </div>
 
 
