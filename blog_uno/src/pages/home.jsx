@@ -1,12 +1,17 @@
 import React from 'react'
-
-const   Home = () => {
-  
-    return (
- <article>
-    <img src="image.png" alt="" />
- </article>
+import Register from '../components/Register'
+import './styles/home.css'
+const home = () => {
+  return (
+  <>
+  <div className='home'> 
+   <div className='home__circle-1'></div>
+   <div  className='home__circle-2'></div>
+   <div className='home__circle-3'></div>
+  </div>
+    <Register/>
+</>
   )
 }
 
-export default Home
+export default home
