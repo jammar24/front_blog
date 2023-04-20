@@ -1,0 +1,21 @@
+.content__register {
+    
+    
+}
+
+.content__form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    border: 2px solid black;
+    padding: 20px 50px;
+
+}
+
+.content__item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    
+}
